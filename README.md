@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatalistix
 - 👀 I’m interested in programming, math and making music
-- 🌱 I’m currently learning <del>cpp</del> Java
+- 🌱 I’m currently learning <del>cpp</del> <del>Java</del> Golang
 - 💞️ I’m looking to collaborate on <a href=https://github.com/nastyasteshchenko>@nastyasteshchenko</a>
 - 📫 How to reach me: My mom said that I shouldn't contact with strange people so only my friends know how to find me
 - BUT: I'll leave here:<br>
