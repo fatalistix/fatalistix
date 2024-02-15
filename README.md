@@ -5,7 +5,7 @@
 - 📫 How to reach me: My mom said that I shouldn't contact with strange people so only my friends know how to find me
 - BUT: I'll leave here:<br>
 VK: https://vk.com/xitsilataf<br>
-TG: **@xitsilataf**
+TG: **[@xitsilataf](t.me/xitsilataf)**
 
 <!---
 fatalistix/fatalistix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
